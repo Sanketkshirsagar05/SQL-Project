@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName,Location,AnnualBudget
+DEP001,Sales,New York,4500000
+DEP002,Marketing,Chicago,3200000
+DEP003,Customer Support,Dallas,2500000
+DEP004,Finance,Boston,3800000
+DEP005,Human Resources,Atlanta,2200000
+DEP006,Information Technology,Seattle,8500000
+DEP007,Operations,Austin,6000000
+DEP008,Legal,Washington,2800000
+DEP009,Procurement,Detroit,3000000
+DEP010,Business Development,San Francisco,5200000
+DEP011,Administration,Denver,1800000
+DEP012,Quality Assurance,Phoenix,3500000
+DEP013,Research & Development,San Jose,12000000
+DEP014,Product Management,Los Angeles,5000000
+DEP015,Executive,New York,18000000
