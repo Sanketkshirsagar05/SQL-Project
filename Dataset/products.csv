@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost,ProfitPerUnit,Status
+PRD0001,CRM Basic,CRM,299,182.35,116.65,Active
+PRD0002,CRM Professional,CRM,599,273.3,325.7,Active
+PRD0003,CRM Enterprise,CRM,999,518.24,480.76,Active
+PRD0004,ERP Standard,ERP,799,404.14,394.86,Active
+PRD0005,ERP Enterprise,ERP,1499,950.54,548.46,Active
+PRD0006,HRMS Basic,HRMS,249,154.17,94.83,Active
+PRD0007,HRMS Premium,HRMS,499,335.85,163.15,Active
+PRD0008,Payroll System,HRMS,199,93.88,105.12,Active
+PRD0009,Cloud Storage 1TB,Cloud,149,82.77,66.23,Active
+PRD0010,Cloud Backup,Cloud,199,91.03,107.97,Active
+PRD0011,Business Analytics,Analytics,699,352.76,346.24,Active
+PRD0012,Power BI Connector,Analytics,399,229.96,169.04,Active
+PRD0013,AI Assistant,AI,899,410.51,488.49,Active
+PRD0014,AI Chatbot,AI,1199,599.15,599.85,Active
+PRD0015,Cyber Security,Security,999,611.86,387.14,Active
+PRD0016,Endpoint Protection,Security,699,409.78,289.22,Active
+PRD0017,API Integration,Services,499,252.05,246.95,Active
+PRD0018,Implementation,Services,1999,1194.04,804.96,Active
+PRD0019,Training,Services,799,521.23,277.77,Active
+PRD0020,Annual Support,Support,599,270.52,328.48,Active
